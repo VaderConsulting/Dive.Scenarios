@@ -18,6 +18,11 @@ C# adapter that maps Dive scenario schema v1.0 JSON into the canonical runtime m
 
 There is no `.sln` / `.csproj` in this leftover tree. Add `Adapters/ScenarioAdapterV1.cs` to the Dive solution that already defines `Dive.Scenarios.Models.Canonical`.
 
+## Requirements
+
+- Visual Studio 2019 or later, or .NET SDK
+- .NET 5.0 or later (System.Text.Json)
+
 ## Attribution and provenance
 
 Dave Robinson / VaderConsulting. Historical Dev leftover related to the private Dive product. Namespace `Dive.Scenarios.Adapters`.
