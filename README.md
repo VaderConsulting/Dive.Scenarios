@@ -25,6 +25,7 @@ There is no `.sln` / `.csproj` in this leftover tree. Add `Adapters/ScenarioAdap
 
 ## Attribution and provenance
 
+my working copy from Development folder `Dive.Scenarios`.
 Dave Robinson / VaderConsulting. Historical Dev leftover related to the private Dive product. Namespace `Dive.Scenarios.Adapters`.
 
 ## License
